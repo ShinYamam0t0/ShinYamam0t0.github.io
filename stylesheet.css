@@ -5,7 +5,6 @@ body {
 
 li {
   list-style: none;
-  /* floatプロパティをleftにしてください */
   float: left;
 }
 
