@@ -7,6 +7,13 @@ li {
   list-style: none;
 }
 
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+}
+
 .header {
   background-color: #26d0c9;
   height: 90px;
