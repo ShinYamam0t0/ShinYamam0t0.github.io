@@ -4,7 +4,7 @@ body {
 }
 
 li {
-  font-size: 100px;
+  font-size: 50px;
   list-style: none;
 }
 
@@ -37,6 +37,10 @@ li {
 
 .copy-container h1 {
   font-size: 40px;
+}
+
+h2 {
+  font-size: 100px;
 }
 
 .copy-container h2 {
