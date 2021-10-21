@@ -39,8 +39,10 @@ li {
   font-size: 40px;
 }
 
-h2 {
-  font-size: 100px;
+h2{
+  font-size:100%;
+  color: #ff0000;
+  background-color: #ffffff;
 }
 
 .copy-container h2 {
