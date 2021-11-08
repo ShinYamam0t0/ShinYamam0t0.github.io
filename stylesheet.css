@@ -1,6 +1,8 @@
 <link href="styles/style.css" rel="stylesheet">
 body {
-  font-family: "Avenir Next"
+  font-family: "Avenir Next";
+  background-color: #10100E;
+  color: #cccccc;
 }
 
 li {
