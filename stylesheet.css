@@ -10,13 +10,13 @@ li {
 
 .btn {
   padding: 8px 24px;
-  color: red;
+  color: white;
   display: inline-block;
   opacity: 0.8;
 }
 
 .header {
-  background-color: red;
+  background-color: green;
   height: 90px;
 }
 
