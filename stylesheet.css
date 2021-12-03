@@ -17,7 +17,7 @@ li {
 
 .header {
   background-color: green;
-  height: 90px;
+  height: 100px;
 }
 
 .header-logo {
@@ -32,7 +32,7 @@ li {
 }
 
 .main {
-  padding: 100px 80px;
+  padding: 100px 100px;
   background-color: #10100E;
   color: #cccccc;
 }
