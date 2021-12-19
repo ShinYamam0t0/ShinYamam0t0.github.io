@@ -6,7 +6,7 @@ body {
 li {
   font-size: 25px;
   list-style: none;
-  font-color: #DC143C;
+  color: #DC143C;
 }
 
 .btn {
