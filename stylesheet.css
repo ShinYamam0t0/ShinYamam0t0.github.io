@@ -26,6 +26,12 @@ li {
   padding: 20px 40px;
 }
 
+.btn-wrapper {
+  margin: 20px 0px;
+}
+
+
+
 .header-list li {
   float: left;
   padding: 33px 20px;
