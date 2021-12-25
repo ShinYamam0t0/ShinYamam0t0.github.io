@@ -15,6 +15,9 @@ li {
   opacity: 0.8;
 }
 
+.ul {
+  font-size: 24px;
+}
 .header {
   background-color: green;
   height: 100px;
